@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
     RecyclerView recyclerView;
     SwipeRefreshLayout swipeRefreshLayout;
-    final String API_KEY ="89c3845a4ab14a7fbc9427635bc6cbd2";
+    final String API_KEY ="89c3845a4ab14a7fbc9427635bc";
     Adapter adapter;
     List<Articles> articles = new ArrayList<>();
 
